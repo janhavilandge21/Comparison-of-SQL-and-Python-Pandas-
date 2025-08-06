@@ -75,9 +75,6 @@ To compare **commonly used SQL operations** with their **Python Pandas equivalen
 
 ---
 
-## 📷 Sample Output (Screenshots/Visuals)
-
-> *(Add sample screenshots of your DataFrames and outputs here if available)*
 
 ---
 
